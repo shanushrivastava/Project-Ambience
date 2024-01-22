@@ -1,0 +1,26 @@
+li a{
+    text-decoration: none;
+    color: black;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+ul{
+    list-style-type: none;
+}
+
+.form :placeholder-shown{
+    font-size: 15px;
+    padding: 2px;
+    margin: 3px;
+}
+
+img{
+    width: 85%;
+
+}
+.tom{
+    text-decoration: none;
+    display: block;
+    color: black;
+    margin: 15px;
+}
